@@ -1,0 +1,1 @@
+kept: anchored rule does not apply here

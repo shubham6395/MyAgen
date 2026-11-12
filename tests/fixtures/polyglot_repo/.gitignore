@@ -1,0 +1,6 @@
+# comment
+build/
+/rootonly.txt
+*.tmp
+!important.tmp
+nested/ignore.txt

@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "myagent": {
+      "type": "stdio",
+      "command": "python",
+      "args": ["C:/path/to/MyAgent/myagent_mcp.py"]
+    }
+  }
+}

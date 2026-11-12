@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "myagent": {
+      "command": "python",
+      "args": ["C:/path/to/MyAgent/myagent_mcp.py"]
+    }
+  }
+}
