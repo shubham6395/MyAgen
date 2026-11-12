@@ -19,7 +19,7 @@ Zero runtime dependencies — Python 3.10+ standard library only.
 ## Install from GitHub (any IDE, one command)
 
 ```bash
-pip install git+https://github.com/<your-username>/MyAgent.git
+pip install git+https://github.com/shubham6395/MyAgen.git
 ```
 
 This puts two commands on your PATH — no clone, no path configuration:
@@ -34,7 +34,7 @@ Any MCP-capable IDE (Qoder, Cursor, Claude Desktop, VS Code, Windsurf) then need
 ```
 
 (VS Code uses the `servers` key instead of `mcpServers`.) Upgrade later with
-`pip install --upgrade git+https://github.com/<your-username>/MyAgent.git`.
+`pip install --upgrade git+https://github.com/shubham6395/MyAgen.git`.
 
 ## Quickstart
 

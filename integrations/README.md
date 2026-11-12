@@ -12,7 +12,7 @@ Exposes three tools to the AI: `document_codebase`, `analyze_codebase`, `get_doc
 ### Option A — pip install (simplest, no paths)
 
 ```bash
-pip install git+https://github.com/<your-username>/MyAgent.git
+pip install git+https://github.com/shubham6395/MyAgen.git
 ```
 
 Then every IDE config below can use `"command": "myagent-mcp"` with no `args` at all.
